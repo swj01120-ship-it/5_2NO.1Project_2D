@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14e274d0275955349ba89c0ec648f18b, type: 3}
+  m_Name: Step2_Timing
+  m_EditorClassIdentifier: 
+  title: "\uD0C0\uC774\uBC0D\uC744 \uB9DE\uCD94\uC138\uC694"
+  description: "\uB5A8\uC5B4\uC9C0\uB294 \uB178\uD2B8\uAC00 \uD0C0\uAC9F \uB77C\uC778\uC5D0\n\uC815\uD655\uD788
+    \uB3C4\uCC29\uD588\uC744 \uB54C!"
+  detail: "\uC2A4\uD398\uC774\uC2A4\uBC14\uB97C \uB20C\uB7EC \uBD81\uC744 \uCE58\uC138\uC694"
+  icon: {fileID: 21300000, guid: 4ed7b996f6c64224fbab5c37bbfffed7, type: 3}

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14e274d0275955349ba89c0ec648f18b, type: 3}
+  m_Name: Step3_Combo
+  m_EditorClassIdentifier: 
+  title: "\uCF64\uBCF4\uB97C \uC313\uC73C\uC138\uC694"
+  description: "\uC5F0\uC18D\uC73C\uB85C \uC131\uACF5\uD558\uBA74 \uCF64\uBCF4\uAC00
+    \uC313\uC785\uB2C8\uB2E4.\n\uB192\uC740 \uC810\uC218\uB97C \uD68D\uB4DD\uD558\uC138\uC694!"
+  detail: Perfect >Great > Good > Miss
+  icon: {fileID: 21300000, guid: 4ed7b996f6c64224fbab5c37bbfffed7, type: 3}
