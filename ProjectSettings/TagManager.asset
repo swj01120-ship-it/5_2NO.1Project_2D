@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Drum
+  - Stick
   layers:
   - Default
   - TransparentFX
